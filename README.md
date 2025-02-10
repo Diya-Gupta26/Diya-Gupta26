@@ -1,5 +1,5 @@
  👋 Hello there, I’m Diya Gupta
-- 👀 I’m having keen interst in problem-solving, AI/ML Engineering, and backend development.
+- 👀 I’m having keen interst in problem-solving, AI/ML Engineering, and development.
 - 🌱 I’m currently learning advanced algorithms and system design along with backend developement .
 - 💞️ I’m looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives. 
 - 📫 Contact (email:microdg07@gmail.com ; Linkedin:https://www.linkedin.com/in/diya-gupta-770626231/)
