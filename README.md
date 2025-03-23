@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 HOLA AMIGOS, Myself Diya<br><br>🏆 I’m having keen interest in problem-solving, AI/ML Engineering, and development.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br>📞 Contact (email:microdg07@gmail.com ; Linkedin:www.linkedin.com/in/diya-gupta-770626231/)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
+👋 HOLA AMIGOS, Diya here<br><br>🏆 I’m having keen interest in problem-solving, AI/ML Engineering, and development.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br>📞 Contact (email:microdg07@gmail.com ; Linkedin:www.linkedin.com/in/diya-gupta-770626231/)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
 
 
 ## 🌐 Socials:
