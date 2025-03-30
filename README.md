@@ -1,5 +1,8 @@
 # 💫 About Me:
-<img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="900" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+![Coding Girl](./coding-girl.gif)
+
 
 👋 HOLA AMIGOS, Diya here!<br><br>🏆 I’m having a great enthusiasm for the tech fields like Java programming, AI/ML Engineering, and development.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br><br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
 
