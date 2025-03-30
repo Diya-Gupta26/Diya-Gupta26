@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 HOLA AMIGOS, Diya here!<br><br>🏆 I’m having a great enthusiasm for the tech fields like Java programming, AI/ML Engineering, and development.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br>📞 Contact (email:microdg07@gmail.com ; Linkedin:www.linkedin.com/in/diya-gupta-770626231/)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
+👋 HOLA AMIGOS, Diya here!<br><br>🏆 I’m having a great enthusiasm for the tech fields like Java programming, AI/ML Engineering, and development.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br><br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Diya-Gupta26&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Diya-Gupta26&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Diya-Gupta26&icon=5&color=6)](https://visitcount.itsvg.in)
