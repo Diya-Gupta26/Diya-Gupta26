@@ -38,6 +38,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diya-Gupta26&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Diya-Gupta26&icon=5&color=6)](https://visitcount.itsvg.in)
+### visit count
+<!--![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Diya-Gupta26.Diya-Gupta26)-->
+![Visitor Count](https://count.getloli.com/get/@Diya-Gupta26.Diya-Gupta26_?theme=moebooru)
+
+
 
