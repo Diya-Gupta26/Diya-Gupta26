@@ -6,7 +6,7 @@
 ![Coding Girl](./coding-girl.gif)
 
 
-🏆 With a great enthusiasm for the tech fields like Android/Web developement etc.<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br><br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
+🏆 With a great enthusiasm for the tech field in Full Stack Android & Web developement .<br>🎓 BTech CSE Undergrad<br>💻 I’m currently learning advanced algorithms and system design along with backend development .<br>🔭 Eagerly looking for tech internships and to collaborate on innovative tech projects, hackathons, and research initiatives.<br><br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have excelled in academics whilst winning national and college level medals in sports like netball, chess, and tug of war.
 
 
 
@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Diya-Gupta26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Diya-Gupta26&theme=dark&hide_border=false)<br/>
